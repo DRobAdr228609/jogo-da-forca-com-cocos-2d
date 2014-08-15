@@ -1,33 +1,21 @@
 jogo-da-forca-para-android-com-cocos-2d
 ==========================
 
-Trabalho para a obtenção do titulo de Bacharel em Ciência da Computação
+Work to obtain the title of Bachelor of Computer Science 
 
-Desenvolvido por:
-Davi Roberto.
+Developed by: 
+Davi Roberto. 
 
-@ndrade M7
+Andrade M7 
 
-jogo da forca com tema voltado para as copas do mundo. 
-Com perguntas, respostas e dicas.
+Hangman-themed facing the world cups. With questions, answers and tips. 
 
-O jogo foi desenvolvido com o framework cocos2D
-Todos os arquivos fontes utilizados no projeto estão disponiveis
-assim como a apk de teste com 5 perguntas e em cada um dos 3 idiomas
-e 3 niveis de dificuldade.
+The game was developed with the framework cocos2d All source files used in the project are available as well as apk test with five questions and each of the 3 languages ​​and 3 levels of difficulty. 
 
-Disponivel o arquivo em pdf com o TCC para a compreenção da aplicação.
+Available in pdf file with the TCC for application comprehension. 
 
-Jogo desenvolvido para plataforma mobile Android.
-Testado nas versões:
-Android 4.1
-Android 4.2
-Android 4.3
+Game developed for Android mobile platform. Tested in versions: Android 4.1 Android 4.2 Android 4.3 
 
-Desenvolvido com linguagem de programação Java
-Banco de dados SQLight
+Developed in Java programming language database SQLight 
 
-Com tradução simultanea para três idiomas;
-Portugues (Brasil)
-Spanish (Spanish)
-English (EUA)
+With simultaneous translation in three languages​​; Portuguese (Brazil) Spanish (Spanish) Inglês (USA)
