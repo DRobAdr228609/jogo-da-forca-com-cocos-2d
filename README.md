@@ -9,10 +9,12 @@ Davi Roberto.
 @ndrade M7
 
 
-jogo da forca com tema voltado para as copas do mundo 
-com perguntas, respostas e dicas.
+jogo da forca com tema voltado para as copas do mundo. 
+Com perguntas, respostas e dicas.
 
-O jogo foi desenvolvido com o framework cocos2
+O jogo foi desenvolvido com o framework cocos2D
 Todos os arquivos fontes utilizados no projeto estão disponiveis
 assim como a apk de teste com 5 perguntas e em cada um dos 3 idiomas
 e 3 niveis de dificuldade.
+
+Disponivel o arquivo em pdf com o TCC para a compreenção da aplicação.
