@@ -4,7 +4,8 @@ jogo-da-forca-com-cocos-2d
 Trabalho para a obtenção do titulo de Bacharel em Ciência da Computação
 
 Desenvolvido por:
-Davi Roberto
+Davi Roberto.
+
 @ndrade M7
 
 
