@@ -1,4 +1,4 @@
-jogo-da-forca-com-cocos-2d
+jogo-da-forca-para-android-com-cocos-2d
 ==========================
 
 Trabalho para a obtenção do titulo de Bacharel em Ciência da Computação
@@ -7,7 +7,6 @@ Desenvolvido por:
 Davi Roberto.
 
 @ndrade M7
-
 
 jogo da forca com tema voltado para as copas do mundo. 
 Com perguntas, respostas e dicas.
@@ -18,3 +17,17 @@ assim como a apk de teste com 5 perguntas e em cada um dos 3 idiomas
 e 3 niveis de dificuldade.
 
 Disponivel o arquivo em pdf com o TCC para a compreenção da aplicação.
+
+Jogo desenvolvido para plataforma mobile Android.
+Testado nas versões:
+Android 4.1
+Android 4.2
+Android 4.3
+
+Desenvolvido com linguagem de programação Java
+Banco de dados SQLight
+
+Com tradução simultanea para três idiomas;
+Portugues (Brasil)
+Spanish (Spanish)
+English (EUA)
