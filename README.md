@@ -19,3 +19,9 @@ Game developed for Android mobile platform. Tested in versions: Android 4.1 Andr
 Developed in Java programming language database SQLight 
 
 With simultaneous translation in three languages​​; Portuguese (Brazil) Spanish (Spanish) Inglês (USA)
+
+Facebook: https://www.facebook.com/signa.roberto
+
+Email: signa.roberto@gmail.com
+
+Formação: Bacharel em Ciência da Computação
